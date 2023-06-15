@@ -1,8 +1,11 @@
 # Research Paper
-Name:
-Semester:
-Topic:
-Link The Repository: 
+* Name:
+* Semester:
+* Topic:
+* Link The Repository: 
+
+
+Note the following is an example outline to help you. Please rework as you need. 
 
 ## Introduction
 - What is the algorithm/datastructure?
