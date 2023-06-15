@@ -60,7 +60,7 @@ cases), then we will expect a more detailed report/research surrounding it.
 Part of programming is often researching the best way to do something. For this assignment, you will be demonstrating your ability
 to research and implement an algorithm or data structure.  
 
-**IMPORTANT** You must implement the algorithm yourself. For example, you cannot use Javas Sorted Hashmap and say you implemented it by testing it. You could look at Java's SortedHashmap since the code is freely available, and then implement your own version of it in another language that is fine. 
+**IMPORTANT** You must implement the algorithm yourself. For example, you cannot use Java's Sorted Hashmap and say you implemented it by testing it. You could look at Java's SortedHashmap since the code is freely available, and then implement your own version of it in another language that is fine. 
 
 
 > Feel free to reach out to ask if something is of the appropriate size! Also feel free to talk about algorithms or data structures in the general channel on MS Teams!! Asking questions about your data structure / algorithm will help others. 
