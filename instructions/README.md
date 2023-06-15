@@ -1,4 +1,4 @@
-# Summative Research Project
+# Summative Research Project / Technical Report
 
 For this assignment, you will be researching an algorithm or data structure not covered in the course. 
 You will be writing a report on the algorithm or data structure, and 
@@ -77,6 +77,26 @@ We are sure that you can come up with other means such as graphs, visualizations
 
 ## 📝 Grading Rubric
 
+You will submit your project as a link to your repository on Canvas. Your repository should contain all of the deliverables listed above, and it needs to be in the github classroom repo that is generated from the github classroom link. This will give TAs full access to the project without needing to make it public. 
+
+The rubric will be as follows.
+
+| Category | Exceeds (4pts) | Meets (3pts) | Approaching (2pts) | Learning (1pt) | Missing (0pts) | 
+| --- | --- | --- | --- | --- | --- |
+| **Code Quality** | Code is written correctly, based on the language norms including memory management and small concise functions. Tests included to show validity. Sample runs included. | Code is both documented and test files included. | Code exists, is documented OR tested by including test files for all the code. | Code exists but is not documented or tested. Or it is evident code does not run correctly. | No code or evident it cannot compile. |    
+| **Writing / Grammar** | Report is easy to read, follows proper formatting guidelines, matches correct audience. | Report uses grammar at a college level. | Difficult to read due to poor sentence structures and wording choices. | Difficult to read. Report uses basic grammar, may have misspelling and obvious grammar mistakes. | No report. |
+| **Visuals** (chart, graph, math notation, etc) |  Visuals are informative, and described properly in the paper writing, adding to the overall report. | Visuals are informative, and help clarify the report. | Has a visual but no reference to visual in the paper, and out of place. | Student includes visuals, but they are distracting and not informative. | No visuals. |
+| **Algorithm Background** | Student provides a detailed background of the algorithm or data structure, including its history, and how it is used today. It also provides a high level overview of how the algorithm works. | Student provides a detailed background of the algorithm or data structure, how it works, but may be missing history or how it is used. | Student provides a background of the algorithm or data structure, but missing details and clarity. | Student talks about the algorithm at a high level overview. | No discussion of the algorithm. |
+
+
+
+Please note: As we better refine the rubric, it may be updated on wording. Double check the wording in canvas before submission as that is the most accurate version. 
+
 
 ## 📚 Resources
-Use this section to keep the homework description shorter, and instead talk about additional resources down here (such as tools to use, websites to review, etc)
+* [ACM Journal Access](https://login.ezproxy.neu.edu/) Login via this link to ACM (using your NEU credentials) to get free access to the ACM (association for computing machinery) journals. *This is arguably your best spot for peer reviewed journals in computer science.*
+* [NEU Library Journal Finder](https://onesearch.library.northeastern.edu/discovery/jsearch?vid=01NEU_INST:NU) Some journals you may need to be on the Northeastern VPN to access.
+* [NEU Writing Center](https://cssh.northeastern.edu/writingcenter/tutoring/first-visit/) - highly recommend you get your report evaluated! As  graduate student, worth going to a writing center at least once to get feedback, and better direct your writing style. 
+* [NEU Research Tutorials](https://subjectguides.lib.neu.edu/researchtutorials)
+* [Research Report](https://researchmethod.net/research-report/) - Note, this project is more of a technical report.  
+* [Writing Research Reports: Tips and Strategies](https://universitymanual.com/blog/writing-research-reports-tips-strategies/)
