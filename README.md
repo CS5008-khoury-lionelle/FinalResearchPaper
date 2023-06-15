@@ -1,24 +1,42 @@
-# HW README
-
+# Research Paper
 Name:
+Semester:
+Topic:
+Link The Repository: 
 
-Github Account name: 
-
-Link to Assignment on Github: (copy and paste the link to your assignment repo here)
-
-How many hours did it take you to complete this assignment (estimate)? 
-
-Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.  
-- one per row, add more if needed
-
-
-Did you use any external resources (you do not have to cite in class material)? (Cite them below)  
-- one row per resource
+## Introduction
+- What is the algorithm/datastructure?
+- What is the problem it solves? 
+- Provide a brief history of the algorithm/datastructure. (make sure to cite sources)
+- Provide an introduction to the rest of the paper. 
 
 
-(Optional) What was your favorite part of the assignment? 
+## Analysis of Algorithm/Datastructure
+Make sure to include the following:
+- Time Complexity
+- Space Complexity
+- General analysis of the algorithm/datastructure
 
-(Optional) How would you improve the assignment? 
+## Empirical Analysis
+- What is the empirical analysis?
+- Provide specific examples / data.
 
-## Questions Answers (change to better heading)
 
+## Application
+- What is the algorithm/datastructure used for?
+- Provide specific examples
+- Why is it useful / used in that field area?
+- Make sure to provide sources for your information.
+
+
+## Implementation
+- What language did you use?
+- What libraries did you use?
+- What were the challenges you faced?
+- Provide key points of the algorithm/datastructure implementation, discuss the code.
+- If you found code in another language, and then implemented in your own language that is fine - but make sure to document that.
+
+
+## Summary
+- Provide a summary of your findings
+- What did you learn?
