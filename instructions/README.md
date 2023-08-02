@@ -92,7 +92,7 @@ The rubric will be as follows.
 | **Implementation** | Provides key details about the implementation, including code snippets and any other information such as references to other languages if they were used as samples. Could be easily reproduced based on writeup.|  Provides details and code snippets on the implementation, but may be sparse / difficult to follow. | Details on the implementation and no code snippets, or code snippets and no discussion. | Provides confusing details on the implementation / invalid details / misinformation. | No implementation details. |
 | **References** | Contains both inline citations and end of paper references. Has at least 2 peer reviewed academic works related to algorithm or data structure, and 5 overall references. | Has at least 3 references. Contains end of paper references and inline citations. | Has less than three references, inline and end of paper references  | Contains less than three references, and has only inline citations or end of paper references (not both).  | No references. |
 
-Total Points: 28
+Total Points: 32
 
 Please note: As we better refine the rubric, it may be updated on wording. Double check the wording in canvas before submission as that is the most accurate version. 
 
